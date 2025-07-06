@@ -4,8 +4,8 @@
 
 I am a passionate data enthusiast with personnal and corporate project experience of ene-to-end data solutions. I have diverse domain knowledge and experience which includes Logistics, E-commerce, Insurance, and Financial Sector.
 
-- 💼 Currently I am working as Team captain at Decathlon Logistics.
-- 🌱 Learning and growing while doing personnal projects using various open data sources and tools.
+- 💼 Working as end-to-end pricing strategist.
+- 🌱 Learning and growing while keeping up with latest trends and technologies.
 
 
 ## Stack I use
